@@ -1,0 +1,8 @@
+# COVERAGE PLAN (per scene)
+1. master wide (establishing geography)
+2. medium 2-shot (relationship axis)
+3. OTS A, OTS B (dialogue spine)
+4. close-up A, close-up B (emotional beats)
+5. inserts (props, hands, details)
+6. cutaways (environment, tension release)
+Rule: 180-degree axis locked; break it only as a story event (22-COMPOSITION/kinetic-chaos)

@@ -1,0 +1,11 @@
+# GRADE GRAMMAR
+- warm-amber: nostalgia, safety, sunset, memory
+- cool-teal: tech, distance, night, clinical
+- desaturated: depression, past, documentary, realism
+- saturated-punch: fantasy, promo, vivid imagination
+- split-tone (dark) shadows/light highlights: cinematic staple
+- bleach-bypass: gritty contrast, war, 90s action
+- lifted-blacks: dreamy, faded, analog, poetic
+- crushed-blacks: noir, contrast, menace
+- teal-orange-protagonist vs blue-antagonist: visual moral code
+- golden-hour-grade: always the flattering lie

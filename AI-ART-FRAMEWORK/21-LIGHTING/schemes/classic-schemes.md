@@ -1,0 +1,11 @@
+# CLASSIC LIGHTING SCHEMES
+- three-point: key/fill/rim, broadcast neutral
+- Rembrandt: triangle cheek patch, painterly drama
+- chiaroscuro: extreme contrast, moral chiaro, noir
+- split-light: half-face darkness, duplicity
+- butterfly: glamour, symmetry, high-key beauty
+- rim-only: silhouette, mystery, separation
+- practical-only: realism, night interiors, source logic
+- motivated: every light has an on-screen source
+- teal-orange: blockbuster grade, skin vs bg
+- high-key: bright, low contrast, upbeat/clinical

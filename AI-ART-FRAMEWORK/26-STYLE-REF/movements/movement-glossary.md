@@ -1,0 +1,12 @@
+# ART MOVEMENT GLOSSARY (prompt-ready)
+- impressionism: light, dappled, brush-visible
+- post-impressionism: bold color, form-emphasis
+- expressionism: emotional distortion, wild color
+- surrealism: dream-logic, juxtaposition, impossible
+- art-deco: geometry, luxury line, 20s-30s
+- art-nouveau: organic swirl, nature-line, Belle Epoque
+- pop-art: mass-culture, hard edge, comic irony
+- minimalism: reduction, negative space, exactness
+- vaporwave: 80s-retro pastel, mall-gods, dead-mall dreaming
+- synthwave: neon-grid, sunset horizon, outrun
+- liminal: empty transitional space, uncanny calm

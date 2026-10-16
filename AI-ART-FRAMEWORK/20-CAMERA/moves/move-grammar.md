@@ -1,0 +1,11 @@
+# CAMERA MOVE GRAMMAR
+- dolly-in: intrusion, focus, dread or intimacy
+- dolly-out: isolation, revelation, leaving
+- push-in (lens): tension without spatial motion
+- pull-back: scale shift, irony, context reveal
+- tracking (lateral): journey, parataxis of scenery
+- crane/boom: ascension, power, god-view
+- orbit: obsession, ownership, 360 degree cage
+- handheld: immediacy, danger, documentary truth
+- gimbal-smooth: dreamlike, guided, surreal glide
+- whip-pan: energy, disorientation, time-skip
